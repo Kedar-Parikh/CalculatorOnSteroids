@@ -1,0 +1,1 @@
+First open the MainMenu.py by running python MainMenu.py in the command line
