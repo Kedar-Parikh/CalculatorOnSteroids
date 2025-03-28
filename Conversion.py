@@ -13,7 +13,7 @@ class weight:
 class money:
     def dollar_rupee():
         dollar = input('Enter Amount in dollars: ')
-        INR = int(dollar) * 75
+        INR = int(dollar) * 85
         print(f'Your amount is ₹{INR}')
 
     def rupee_dollar():
